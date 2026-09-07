@@ -1,0 +1,16 @@
+keyword,correlation,category,weather_driver,best_timing
+rain_jacket,0.52,Rain,total_rain,Same-week
+waterproof_boots,0.54,Rain,total_rain,Same-week
+rain_pants,0.54,Rain,total_rain,Same-week
+umbrella,-0.11,Rain,total_rain,Same-week
+rubber_boots,0.5,Rain,total_rain,Same-week
+insulated_jacket,-0.55,Cold,average_temp_mean,Same-week
+base_layer,-0.62,Cold,average_temp_mean,Same-week
+winter_gloves,-0.54,Cold,average_temp_mean,Same-week
+wool_socks,-0.48,Cold,average_temp_mean,Same-week
+beanie,-0.53,Cold,average_temp_mean,Same-week
+hiking_boots,-0.23,Warm,average_temp_max,Same-week
+sandals,0.69,Warm,average_temp_max,Same-week
+light_jacket,-0.46,Warm,average_temp_max,Same-week
+sun_hat,0.65,Warm,average_temp_max,Same-week
+shorts,0.75,Warm,average_temp_max,Same-week
